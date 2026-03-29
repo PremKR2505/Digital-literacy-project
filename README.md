@@ -28,6 +28,6 @@ Created a Social Media checklist with DOs and DON'Ts
 This task focused on Cybercrime and Cybersecurity. In this day and age it has crucial to be aware of all possible online threats to take precautions and guard yourself from bad faith actors. This task contains a case study and a prevention checklist.
 
 ## About me 😄
-Name: Prem Kumar
-A First year B.tech CSE student
+Name: Prem Kumar \
+A First year B.tech CSE student \
 Interested in learning more and thriving for the future
