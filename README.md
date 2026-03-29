@@ -11,7 +11,8 @@ An infographic was made with canva about what digital literacy is, useful digita
 ### Task 2
 Built a student portflio and made accounts on platforms like Github,Kaggle and Linkedin.
 
-### Task 3Built familarity with online tools for practisin, collaborating and studying such as Google forms and CodeChef.
+### Task 3
+Built familarity with online tools for practisin, collaborating and studying such as Google forms and CodeChef.
 #### Part A
 Coding Practice: Did a beginner level challenge
 #### Part B
